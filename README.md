@@ -26,7 +26,7 @@ A continuación, se muestran ejemplos del programa en ejecución para los cuatro
 
 ### Caso 1: Sueldo Exento
 *Sueldo neto menor a RD$ 34,685.00 mensual.*
-<img width="1366" height="768" alt="Captura de pantalla (13)" src="https://github.com/user-attachments/assets/4ec0010e-2412-4d13-b90b-24fe70d92be3" />
+<img width="1366" height="768" alt="Captura de pantalla (17)" src="https://github.com/user-attachments/assets/ec103a87-0e35-45fe-9051-7f1219ee63c4" />
 
 ### Caso 2: Aplicación del 15%
 *Sueldo neto entre RD$ 34,685.01 y RD$ 52,027.42.*
@@ -35,7 +35,6 @@ A continuación, se muestran ejemplos del programa en ejecución para los cuatro
 ### Caso 3: Aplicación del 20%
 *Sueldo neto entre RD$ 52,027.43 y RD$ 72,260.25.*
 <img width="1366" height="768" alt="Captura de pantalla (15)" src="https://github.com/user-attachments/assets/d07d564a-6d61-4e9b-a394-244c5b57d65c" />
-
 
 ### Caso 4: Aplicación del 25%
 *Sueldo neto mayor a RD$ 72,260.26.*
