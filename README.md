@@ -1,4 +1,4 @@
-# Actividad 1 - Flujo de Control Part. 1
+# Actividad 1 - Flujo de Control 1
 
 ## Descripción
 Este programa, desarrollado en C#, calcula el Impuesto Sobre la Renta (ISR) para empleados en la República Dominicana, basándose en las escalas salariales vigentes de la DGII para el año 2026.
